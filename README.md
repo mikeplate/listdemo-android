@@ -6,7 +6,7 @@ Mikael Plate. Its purpose is also to compare these operations to how they are do
 platform.  Therefore, a corresponding similar application is available for iOS at
 https://github.com/mikeplate/listdemo-ios.git
 
-![Screenshot of application](http://mobileapplab.se/images/listdemo-android.png)
+![Screenshot of application](http://mobileapplab.se/images/listdemo-android.png)  
 ![Screenshot of application](http://mobileapplab.se/images/listdemo-android-2.png)
 
 ## License
